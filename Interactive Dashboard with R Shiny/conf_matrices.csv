@@ -1,0 +1,14 @@
+,TP,FN,FP,TN
+LogisticRegression,28,31,10,131
+NaiveBayes,39,20,31,110
+KNN,14,45,11,130
+DecisionTree,33,26,23,118
+RandomForest,17,42,4,137
+SVM_Linear,23,36,8,133
+SVM_RBF,13,46,3,138
+BaggingSVM,12,47,3,138
+ExtraTrees,22,37,9,132
+AdaBoost,26,33,18,123
+XGBoost,23,36,15,126
+LightGBM,23,36,8,133
+CatBoost,20,39,6,135
